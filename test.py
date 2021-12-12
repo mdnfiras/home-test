@@ -6,5 +6,3 @@ for i in range (1, 10+1):
     if x == y:
         s += 1
 print(s)
-
-print('haha')
